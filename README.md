@@ -63,7 +63,7 @@ Built a full pipeline for continuous integration and deployment using Jenkins, G
 
 # 📫 Connect with Me
 
- <br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https:) <br/>
+ <br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/hari-kumar-a19024106/) <br/>
 
      
 🧠 Fun Fact
