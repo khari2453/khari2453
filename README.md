@@ -46,7 +46,7 @@ Provisioned complete AWS infrastructure (VPC, EC2, Security Groups, IAM) using T
 
 📦 **Tools:** Terraform | AWS | Bash
 
-🔵 **CI/CD Pipeline with Jenkins and DockerHub**
+# 🔵 `CI/CD Pipeline with Jenkins and DockerHub`
 Built a full pipeline for continuous integration and deployment using Jenkins, GitHub, and DockerHub.
 
 - Automated build and push of Docker images
@@ -56,10 +56,13 @@ Built a full pipeline for continuous integration and deployment using Jenkins, G
 📦 **Tools:** Jenkins | Docker | GitHub Webhooks | Kubernetes
 
 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=khari2453&show_icons=true&theme=radical)
+
    
 
-📫 Connect with Me
-     
+# 📫 Connect with Me
+ <br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https:) <br/>
 
+     
 🧠 Fun Fact
 I break things — then automate fixing them 😄
