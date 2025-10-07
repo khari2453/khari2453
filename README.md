@@ -27,20 +27,22 @@ I specialize in building **scalable, secure, and production-ready CI/CD pipeline
 | **Operating Systems**	| <img width="24" height="24" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/external-linux-a-family-of-open-source-unix-like-operating-systems-based-on-the-linux-kernel-logo-shadow-tal-revivo.png" alt="external-linux-a-family-of-open-source-unix-like-operating-systems-based-on-the-linux-kernel-logo-shadow-tal-revivo"/> - Linux (Amazon Linux, Ubuntu) |
 
 
-🧩 Featured Projects
-🟢 React App Deployment on AWS EKS
-Automated deployment of a React application using Docker, Jenkins, Terraform, and Kubernetes (EKS).
-Dockerized a React frontend
-Built CI/CD pipeline in Jenkins
-Infrastructure provisioning using Terraform
-Monitoring using Prometheus & Grafana
-Integrated Alertmanager for email alerts
-📦 Tech Stack: React | Docker | Jenkins | Terraform | AWS EKS | Prometheus | Grafana
-🟡 Terraform AWS Infrastructure Automation
+# 🧩 Featured Projects
+# 🟢 React App Deployment on AWS EKS
+Automated deployment of a React application using **Docker, Jenkins, Terraform, and Kubernetes (EKS)**.
+- Dockerized a React frontend
+- Built CI/CD pipeline in Jenkins
+- Infrastructure provisioning using Terraform
+- Monitoring using Prometheus & Grafana
+- Integrated Alertmanager for email alerts
+  
+📦 **Tech Stack:** React | Docker | Jenkins | Terraform | AWS EKS | Prometheus | Grafana
+
+# 🟡 Terraform AWS Infrastructure Automation
 Provisioned complete AWS infrastructure (VPC, EC2, Security Groups, IAM) using Terraform.
-Parameterized configuration files
-Used remote backend for state management
-Automated provisioning with terraform apply -auto-approve
+- Parameterized configuration files
+- Used remote backend for state management
+- Automated provisioning with terraform apply -auto-approve
 📦 Tools: Terraform | AWS | Bash
 🔵 CI/CD Pipeline with Jenkins and DockerHub
 Built a full pipeline for continuous integration and deployment using Jenkins, GitHub, and DockerHub.
