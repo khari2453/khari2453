@@ -20,11 +20,11 @@ I specialize in building **scalable, secure, and production-ready CI/CD pipeline
 | **Container Orchestration** | <img width="48" height="48" src="https://img.icons8.com/color/48/kubernetes.png" alt="kubernetes"/> - Kubernetes (EKS, Minikube) |
 | **Infrastructure as Code** | <img width="48" height="48" src="https://img.icons8.com/fluency/48/terraform.png" alt="terraform"/> - Terraform |
 | **Cloud Platforms** |	<img width="24" height="24" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/external-amazon-web-services-a-subsidiary-of-amazon-that-provides-on-demand-cloud-computing-logo-color-tal-revivo.png" alt="external-amazon-web-services-a-subsidiary-of-amazon-that-provides-on-demand-cloud-computing-logo-color-tal-revivo"/> - AWS (EC2, S3, IAM, EKS, VPC) |
-| **Monitoring** | <img width="48" height="48" src="https://img.icons8.com/fluency/48/prometheus-app.png" alt="prometheus-app"/> - Prometheus, Grafana, Alertmanager |
-| **Configuration Management** |	Ansible |
-| **Version Control** |	| Git, GitHub |
-| **Scripting	| Bash, Python |
-| **Operating Systems	| Linux (Amazon Linux, Ubuntu) |
+| **Monitoring** | <img width="48" height="48" src="https://img.icons8.com/fluency/48/prometheus-app.png" alt="prometheus-app"/> - Prometheus,<img width="24" height="24" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/external-data-visualization-and-monitoring-with-support-for-graphite-and-influxdb-logo-color-tal-revivo.png" alt="external-data-visualization-and-monitoring-with-support-for-graphite-and-influxdb-logo-color-tal-revivo"/> - Grafana |
+| **Configuration Management** |	<img width="48" height="48" src="https://img.icons8.com/fluency/48/ansible.png" alt="ansible"/> - Ansible |
+| **Version Control** |	 <img width="94" height="94" src="https://img.icons8.com/3d-fluency/94/github-logo.png" alt="github-logo"/> - GitHub |
+| **Scripting**	| <img width="100" height="100" src="https://img.icons8.com/plasticine/100/bash.png" alt="bash"/> - Bash |
+| **Operating Systems**	| <img width="24" height="24" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/external-linux-a-family-of-open-source-unix-like-operating-systems-based-on-the-linux-kernel-logo-shadow-tal-revivo.png" alt="external-linux-a-family-of-open-source-unix-like-operating-systems-based-on-the-linux-kernel-logo-shadow-tal-revivo"/> - Linux (Amazon Linux, Ubuntu) |
 
 
 🧩 Featured Projects
