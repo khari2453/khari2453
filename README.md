@@ -12,7 +12,7 @@ I specialize in building **scalable, secure, and production-ready CI/CD pipeline
 
 # 🧰 DevOps Skill Set
 
-| **Category** |	| **Tools & Technologies** |
+| Category |	| Tools & Technologies |
 
 |--------------|  |--------------------------|
 
