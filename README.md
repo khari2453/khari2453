@@ -13,7 +13,9 @@ I specialize in building **scalable, secure, and production-ready CI/CD pipeline
 # 🧰 DevOps Skill Set
 
 | **Category** |	| **Tools & Technologies** |
+
 |--------------|  |--------------------------|
+
 | **CI/CD** |	|Jenkins, GitHub Actions, ArgoCD |
 | **Containers** |	| Docker, Docker Compose |
 | **Container Orchestration** |	Kubernetes (EKS, Minikube)
