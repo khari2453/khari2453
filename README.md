@@ -13,18 +13,20 @@ I specialize in building **scalable, secure, and production-ready CI/CD pipeline
 # 🧰 DevOps Skill Set
 
 
-| Category	| Tools/Services |	Purpose |
-|----------|----------------|---------|
-| **CI/CD** |	|Jenkins, GitHub Actions, ArgoCD |
+| Category	| Tools/Technologies |
+|---------- | -------------------|
+| **CI/CD** |	| Jenkins, GitHub Actions, ArgoCD |
 | **Containers** |	| Docker, Docker Compose |
-| **Container Orchestration** |	Kubernetes (EKS, Minikube)
-| **Infrastructure as Code** |	Terraform, AWS CloudFormation
-| **Cloud Platforms** |	AWS (EC2, S3, IAM, EKS, VPC)
-| **Monitoring** |	Prometheus, Grafana, Alertmanager
-| **Configuration Management** |	Ansible
+| **Container Orchestration** |	| Kubernetes (EKS, Minikube) |
+| **Infrastructure as Code** |	| Terraform, AWS CloudFormation |
+| **Cloud Platforms** |	| AWS (EC2, S3, IAM, EKS, VPC) |
+| **Monitoring** |	| Prometheus, Grafana, Alertmanager |
+| **Configuration Management** |	Ansible |
 | **Version Control** |	| Git, GitHub |
-| **Scripting	Bash, Python
-| **Operating Systems	Linux (Amazon Linux, Ubuntu)
+| **Scripting	| Bash, Python |
+| **Operating Systems	| Linux (Amazon Linux, Ubuntu) |
+
+
 🧩 Featured Projects
 🟢 React App Deployment on AWS EKS
 Automated deployment of a React application using Docker, Jenkins, Terraform, and Kubernetes (EKS).
