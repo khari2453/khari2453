@@ -28,7 +28,7 @@ I specialize in building **scalable, secure, and production-ready CI/CD pipeline
 
 
 # 🧩 Featured Projects
-# 🟢 React App Deployment on AWS EKS
+# 🟢 `React App Deployment on AWS EKS`
 Automated deployment of a React application using **Docker, Jenkins, Terraform, and Kubernetes (EKS)**.
 - Dockerized a React frontend
 - Built CI/CD pipeline in Jenkins
@@ -38,18 +38,23 @@ Automated deployment of a React application using **Docker, Jenkins, Terraform, 
   
 📦 **Tech Stack:** React | Docker | Jenkins | Terraform | AWS EKS | Prometheus | Grafana
 
-# 🟡 Terraform AWS Infrastructure Automation
+# 🟡 `Terraform AWS Infrastructure Automation`
 Provisioned complete AWS infrastructure (VPC, EC2, Security Groups, IAM) using Terraform.
 - Parameterized configuration files
 - Used remote backend for state management
 - Automated provisioning with terraform apply -auto-approve
-📦 Tools: Terraform | AWS | Bash
-🔵 CI/CD Pipeline with Jenkins and DockerHub
+
+📦 **Tools:** Terraform | AWS | Bash
+
+🔵 **CI/CD Pipeline with Jenkins and DockerHub**
 Built a full pipeline for continuous integration and deployment using Jenkins, GitHub, and DockerHub.
-Automated build and push of Docker images
-Integrated GitHub webhooks for auto triggers
-Deployed to Kubernetes cluster via Jenkins pipeline
-📦 Tools: Jenkins | Docker | GitHub Webhooks | Kubernetes
+
+- Automated build and push of Docker images
+- Integrated GitHub webhooks for auto triggers
+- Deployed to Kubernetes cluster via Jenkins pipeline
+  
+📦 **Tools:** Jenkins | Docker | GitHub Webhooks | Kubernetes
+
 📊 GitHub Stats
    
 
