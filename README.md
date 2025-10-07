@@ -15,7 +15,7 @@ I specialize in building **scalable, secure, and production-ready CI/CD pipeline
 
 | Category	| Tools/Technologies |
 |---------- | -------------------|
-| **CI/CD** |	| Jenkins, GitHub Actions, ArgoCD |
+| **CI/CD** | Jenkins, GitHub Actions, ArgoCD |
 | **Containers** |	| Docker, Docker Compose |
 | **Container Orchestration** |	| Kubernetes (EKS, Minikube) |
 | **Infrastructure as Code** |	| Terraform, AWS CloudFormation |
