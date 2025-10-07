@@ -15,11 +15,11 @@ I specialize in building **scalable, secure, and production-ready CI/CD pipeline
 
 | Category	| Tools/Technologies |
 |---------- | -------------------|
-| **CI/CD** | <img width="48" height="48" src="https://img.icons8.com/color/48/jenkins.png" alt="jenkins"/> |
-| **Containers** |	| Docker, Docker Compose |
-| **Container Orchestration** |	| Kubernetes (EKS, Minikube) |
-| **Infrastructure as Code** |	| Terraform, AWS CloudFormation |
-| **Cloud Platforms** |	| AWS (EC2, S3, IAM, EKS, VPC) |
+| **CI/CD** | <img width="48" height="48" src="https://img.icons8.com/color/48/jenkins.png" alt="jenkins"/> - Jenkins|
+| **Containers** | <img width="24" height="24" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/external-docker-a-set-of-coupled-software-as-a-service-logo-color-tal-revivo.png" alt="external-docker-a-set-of-coupled-software-as-a-service-logo-color-tal-revivo"/> - Docker|
+| **Container Orchestration** | <img width="48" height="48" src="https://img.icons8.com/color/48/kubernetes.png" alt="kubernetes"/> - Kubernetes (EKS, Minikube) |
+| **Infrastructure as Code** | <img width="48" height="48" src="https://img.icons8.com/fluency/48/terraform.png" alt="terraform"/> - Terraform |
+| **Cloud Platforms** |	<img width="24" height="24" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/external-amazon-web-services-a-subsidiary-of-amazon-that-provides-on-demand-cloud-computing-logo-color-tal-revivo.png" alt="external-amazon-web-services-a-subsidiary-of-amazon-that-provides-on-demand-cloud-computing-logo-color-tal-revivo"/> - AWS (EC2, S3, IAM, EKS, VPC) |
 | **Monitoring** |	| Prometheus, Grafana, Alertmanager |
 | **Configuration Management** |	Ansible |
 | **Version Control** |	| Git, GitHub |
