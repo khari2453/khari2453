@@ -1,12 +1,14 @@
-👋 Hi, I'm Hari Kumar!
-💻 DevOps Engineer | Cloud Enthusiast | CI/CD Automator
-🚀 About Me
-I’m a DevOps Engineer passionate about automating everything — from infrastructure provisioning to application deployment.
-I specialize in building scalable, secure, and production-ready CI/CD pipelines using modern tools like Docker, Kubernetes, Terraform, and Jenkins.
-🌱 Currently exploring GitOps, AWS EKS, and Monitoring with Prometheus & Grafana
+# 👋 Hi, I'm Hari Kumar!
+## 💻 DevOps Engineer | Cloud Enthusiast | CI/CD Automator
+# 🚀 About Me
+I’m a **DevOps Engineer** passionate about automating everything — from infrastructure provisioning to application deployment.
+I specialize in building **scalable, secure, and production-ready CI/CD pipelines** using modern tools like Docker, Kubernetes, Terraform, and Jenkins.
+🌱 Currently exploring **GitOps, AWS EKS, and Monitoring with Prometheus & Grafana**
 🎯 Goal: Build fully automated cloud-native solutions
 ⚙️ Motto: "If you repeat it twice, automate it."
-🧰 DevOps Skill Set
+
+# 🧰 DevOps Skill Set
+
 Category	Tools & Technologies
 CI/CD	Jenkins, GitHub Actions, ArgoCD
 Containers	Docker, Docker Compose
